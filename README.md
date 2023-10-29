@@ -1,3 +1,6 @@
+<script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.490/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/8VS2ulcRo5doFQ7u/scene.splinecode"></spline-viewer>
+
 <h1 align="center">Hi 👋, I'm Dastan</h1>
 <h3 align="center">A student mobile developer</h3>
 
