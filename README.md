@@ -1,27 +1,23 @@
+[![Social banner for jh3y](https://github.com/sharshekeev13/sharshekeev13/blob/main/assets/banner_asset.gif?raw=true)](https://linkedin.com/in/sharshekeev13)
 
 
-<h1 align="center">Hi 👋, I'm Dastan</h1>
-<h3 align="center">A student mobile developer</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Dastan Sharshekeev</h3>
 
-- 🔭 I’m currently working on **up my skills**
-
-- 🌱 I’m currently learning **Dart and Flutter**
-
-- 🤝 I’m looking for help with **mentors**
-
-- 📫 How to reach me **dastan.sharshekeevv@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sharshekeev13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharshekeev13" height="30" width="40" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharshekeev13&color=lightgrey&style=for-the-badge" alt="profileviews" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+ <!-- Stats section -->
+
+ ##  My Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+
+<div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharshekeev13" alt="Gift's LangStat" height="120px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharshekeev13&langs_count=5&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="120px"/>
+<img align=center src="https://leetcard.jacoblin.cool/sharshekeev13?theme=white&font=Comfortaa" height="120px"/>
+<img align=center src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sharshekeev13&show_icons=true" height="120px"/>
+</div>
 
 
-# LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/sharshekeev13?theme=dark&font=Comfortaa)
-
-
-K
+<!-- Stats section: END -->
